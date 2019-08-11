@@ -1,7 +1,7 @@
 # zookeeper
 安装配置范例：https://blog.csdn.net/xiang2lin/article/details/80616453 
 
- 
+功能应用说明：https://www.cnblogs.com/iforever/p/9095095.html
 
  
 
