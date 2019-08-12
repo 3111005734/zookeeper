@@ -44,3 +44,10 @@
 伪集群模式部署方法：
 
         一台机子上复制出多份zookeeper软件，各自配置好使用不同的dataDir路径，配置好集群服务设备的不同通信端口号（server.A=B：C：D）。
+        
+        
+        
+        
+        
+C++编程范例：
+     https://www.cnblogs.com/haippy/archive/2013/02/24/2924570.html
